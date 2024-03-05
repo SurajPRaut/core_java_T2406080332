@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+table
+{
+	width: 70%;
+	border: 1px solid;
+	font-family: cursive;
+}
+
+input[type=submit],[type=reset],[type=button]
+{
+	background-color: aqua;	
+}
+
+td
+{
+	color: purple;
+}
